@@ -1,1 +1,2 @@
-
+a="naren"
+print(a)
