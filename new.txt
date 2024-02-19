@@ -1,1 +1,3 @@
 hi welcome to python
+a="naren"
+print(a)
